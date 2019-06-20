@@ -1,0 +1,24 @@
+h1{
+    background-color  : #FFC300;
+    margin: 0;
+  }
+  .recent-songs{
+      font-weight: bold;
+  }
+  
+  .navbar-navbar-expand-lg-navbar-light-bg-light{
+      background-color: #FFC300
+  }
+  .navbar-brand{
+      font-size: 50px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-style:italic;
+  }
+  body{
+  background-color: #F7E65E;
+  }
+.explore-pages{
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+}
